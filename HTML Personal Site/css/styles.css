@@ -1,0 +1,27 @@
+body {
+    background-color: F4C7AB;
+   }
+
+  hr {
+    background-color: F4C7AB;
+    border-style: dotted none none;
+    border-color: BF1363;
+    border-width: 4px;
+    width: 50%;
+  }
+
+  h1 {
+    color: BF1363;
+    font-family: verdana;
+    font-size: 150%;
+  }
+  h3 {
+    color: rgb(68, 68, 121);
+    font-family: verdana;
+    font-size: 150%;
+  }
+  p {
+    color: rgb(8, 1, 1);
+    font-family: courier;
+    font-size: 150%;
+  }
